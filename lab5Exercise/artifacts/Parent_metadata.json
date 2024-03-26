@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_b",
+						"type": "uint256"
+					}
+				],
+				"name": "setValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab5Exercise/parent.sol": "Parent"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab5Exercise/parent.sol": {
+			"keccak256": "0xd71e8c39b731f0b717751516899aaa8a7d55743e99748acc8ffbc99a3ec76401",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://18d9c11146bb51ae69d73b325f015fa91ac1254b20a6239e19aa462bb991ce8c",
+				"dweb:/ipfs/QmRkfbUYWX6CycpTPNn1KDRLBRpBHC8NBW9hMC33aRBPaP"
+			]
+		}
+	},
+	"version": 1
+}
