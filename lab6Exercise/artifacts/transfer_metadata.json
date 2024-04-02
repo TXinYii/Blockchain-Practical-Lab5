@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "buyer",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "seller",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_toReceiver",
+						"type": "address"
+					}
+				],
+				"name": "setSeller",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6Exercise/buyer.sol": "transfer"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6Exercise/buyer.sol": {
+			"keccak256": "0x44124b36ea2119ef9d39e033eaecaac3b4b9adb050969d840bf3b66098218af3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2367fd575f147c6bd1d0999258429699f17a4904cf50368c3a2a298d3d35fb0d",
+				"dweb:/ipfs/QmNiSzzk44eekpcRrHszgNzmmaTAk2iWKQdvziSPEPLPFY"
+			]
+		}
+	},
+	"version": 1
+}

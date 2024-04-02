@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.24+commit.e11b9ed9"
+		"version": "0.8.25+commit.b61c2a91"
 	},
 	"language": "Solidity",
 	"output": {
@@ -145,9 +145,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"lab6Exercise/arrayFunction.sol": "array"
+			"lab5Exercise(next)/arrayFunction.sol": "array"
 		},
-		"evmVersion": "shanghai",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -159,7 +159,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"lab6Exercise/arrayFunction.sol": {
+		"lab5Exercise(next)/arrayFunction.sol": {
 			"keccak256": "0xf0c2f0a517e07fd03ea37139404a1111c853e50585604ccc3034045ea4ec3ed0",
 			"license": "MIT",
 			"urls": [

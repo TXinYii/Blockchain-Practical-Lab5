@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6Exercise/struct.sol": "myCOntractStruct"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6Exercise/struct.sol": {
+			"keccak256": "0x40e7714c059048ceec1450e77ca0842782e4247e1b779d3f5f611312255c0463",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9c96cca1649ab92aa66997195aad756b69962a84bc5042271970df41a45e4238",
+				"dweb:/ipfs/QmZZpnxnNQggLVb9Y5T7BQpRbQYcQ1fk2kScbZpEHYvRv1"
+			]
+		}
+	},
+	"version": 1
+}
